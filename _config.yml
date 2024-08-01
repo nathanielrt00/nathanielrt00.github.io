@@ -7,3 +7,7 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Securing Digital Futures: Nathaniel's Cybersecurity Portfolio. 
+description: A showcase of projects, skills, and hard work dedicated to furthering my career in computer science fields.
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
